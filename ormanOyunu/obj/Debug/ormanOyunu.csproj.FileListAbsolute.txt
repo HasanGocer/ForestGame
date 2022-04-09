@@ -1,0 +1,7 @@
+D:\HG\C#\Oyun\proje 1\Oyun\ormanOyunu\bin\Debug\ormanOyunu.exe.config
+D:\HG\C#\Oyun\proje 1\Oyun\ormanOyunu\bin\Debug\ormanOyunu.exe
+D:\HG\C#\Oyun\proje 1\Oyun\ormanOyunu\bin\Debug\ormanOyunu.pdb
+D:\HG\C#\Oyun\proje 1\Oyun\ormanOyunu\obj\Debug\ormanOyunu.csproj.AssemblyReference.cache
+D:\HG\C#\Oyun\proje 1\Oyun\ormanOyunu\obj\Debug\ormanOyunu.csproj.CoreCompileInputs.cache
+D:\HG\C#\Oyun\proje 1\Oyun\ormanOyunu\obj\Debug\ormanOyunu.exe
+D:\HG\C#\Oyun\proje 1\Oyun\ormanOyunu\obj\Debug\ormanOyunu.pdb
